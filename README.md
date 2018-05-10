@@ -19,7 +19,7 @@ $ source env/bin/activate
 
 
 ### 2. Second - config backend
-`cd backend`
+```cd backend```
 
 Create a file named 'config.ini'.
 Wrtie your own email 'host', 'port', 'user' and 'password' as the file 'config.templete'.
