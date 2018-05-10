@@ -1,0 +1,5 @@
+[Email]
+Host: smtp.andrew.cmu.edu #server email host
+Port: 465 #server email port
+User: zhuoniy #server email name
+Password: ******** #write your own password here
