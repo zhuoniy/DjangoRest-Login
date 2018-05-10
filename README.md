@@ -2,7 +2,7 @@
 
 ## How to setup the environment?
 
-cd to the file you download or clone
+cd to the folder you download or clone
 
 ### 1. First - create virtual environment
 ```
@@ -34,7 +34,9 @@ python manage.py runserver
 
 
 ### 3. Third - config frontend
+Open another command terminal and cd to the folder.
 ```
+cd frontend
 npm install
 npm run start
 ```
